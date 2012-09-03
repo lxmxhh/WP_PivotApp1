@@ -1,0 +1,15 @@
+O:\developer\visualstudio\projects\WP_PivotApp1\WP_PivotApp1\Bin\Debug\ApplicationIcon.png
+O:\developer\visualstudio\projects\WP_PivotApp1\WP_PivotApp1\Bin\Debug\Background.png
+O:\developer\visualstudio\projects\WP_PivotApp1\WP_PivotApp1\Bin\Debug\WP_PivotApp1.dll
+O:\developer\visualstudio\projects\WP_PivotApp1\WP_PivotApp1\Bin\Debug\WP_PivotApp1.pdb
+O:\developer\visualstudio\projects\WP_PivotApp1\WP_PivotApp1\Bin\Debug\AppManifest.xaml
+O:\developer\visualstudio\projects\WP_PivotApp1\WP_PivotApp1\Bin\Debug\WP_PivotApp1.xap
+O:\developer\visualstudio\projects\WP_PivotApp1\WP_PivotApp1\Bin\Debug\Microsoft.Phone.Controls.dll
+O:\developer\visualstudio\projects\WP_PivotApp1\WP_PivotApp1\Bin\Debug\Microsoft.Phone.Controls.xml
+O:\developer\visualstudio\projects\WP_PivotApp1\WP_PivotApp1\obj\Debug\ResolveAssemblyReference.cache
+O:\developer\visualstudio\projects\WP_PivotApp1\WP_PivotApp1\obj\Debug\App.g.i.cs
+O:\developer\visualstudio\projects\WP_PivotApp1\WP_PivotApp1\obj\Debug\MainPage.g.i.cs
+O:\developer\visualstudio\projects\WP_PivotApp1\WP_PivotApp1\obj\Debug\WP_PivotApp1.g.resources
+O:\developer\visualstudio\projects\WP_PivotApp1\WP_PivotApp1\obj\Debug\WP_PivotApp1.dll
+O:\developer\visualstudio\projects\WP_PivotApp1\WP_PivotApp1\obj\Debug\WP_PivotApp1.pdb
+O:\developer\visualstudio\projects\WP_PivotApp1\WP_PivotApp1\obj\Debug\XapCacheFile.xml
